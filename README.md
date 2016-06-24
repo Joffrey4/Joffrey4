@@ -1,7 +1,7 @@
 # FusOlar Docs
 Documentations about the FusOlar project.
 
-Link: https://fusolar-docs.github.io
+Link: https://joffrey4.github.io/fusolar-docs
 
 To complie the website from sources:
 `mkdocs build`
