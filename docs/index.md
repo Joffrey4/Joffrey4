@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+![FusOlar](/img/header_logo.png)
+# FusOlar Game - Documentation
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+FusOlar est un jeu de stratégie en ligne dans l'espace. Il n'est pas encore disponible, mais toutes les informations concerant son développement sont disponibles sur ce site.
 
-## Commands
+## Phylosophie
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Développement
 
-## Project layout
+## Contact
+Si vous avez des questions, des idées, des suggetions ou même des réclamations, vous pouvez me contacter via:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Facebook: [http://fb.com/FusOlar.game](http://fb.com/FusOlar.game)
+* Twitter: [http://twitter.com/FusolarGame](http://twitter.com/FusolarGame)
+* Email: [support@fusolar.net](mailto:support@fusolar.net)
+
+Et je passe aussi parfois sur Instagram: [http://www.instagram.com/fusolargame](http://www.instagram.com/fusolargame)

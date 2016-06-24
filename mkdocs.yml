@@ -6,3 +6,6 @@ theme: readthedocs
 
 pages:
     - 'Accueil': 'index.md'
+    - 'Fonctionnalités': 'features.md'
+    - 'Développement': 'development.md'
+    - 'Qui suis-je ?': 'whoiam.md'

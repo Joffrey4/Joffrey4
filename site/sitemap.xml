@@ -9,4 +9,28 @@
     </url>
     
 
+    
+    <url>
+     <loc>None/features/</loc>
+     <lastmod>2016-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/development/</loc>
+     <lastmod>2016-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/whoiam/</loc>
+     <lastmod>2016-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
 </urlset>

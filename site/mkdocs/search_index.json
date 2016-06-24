@@ -2,23 +2,43 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "FusOlar Game - Documentation\n\n\nFusOlar est un jeu de strat\u00e9gie en ligne dans l'espace. Il n'est pas encore disponible, mais toutes les informations concerant son d\u00e9veloppement sont disponibles sur ce site.\n\n\nPhylosophie\n\n\nD\u00e9veloppement\n\n\nContact\n\n\nSi vous avez des questions, des id\u00e9es, des suggetions ou m\u00eame des r\u00e9clamations, vous pouvez me contacter via:\n\n\n\n\nFacebook: \nhttp://fb.com/FusOlar.game\n\n\nTwitter: \nhttp://twitter.com/FusolarGame\n\n\nEmail: \nsupport@fusolar.net\n\n\n\n\nEt je passe aussi parfois sur Instagram: \nhttp://www.instagram.com/fusolargame", 
             "title": "Accueil"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#fusolar-game-documentation", 
+            "text": "FusOlar est un jeu de strat\u00e9gie en ligne dans l'espace. Il n'est pas encore disponible, mais toutes les informations concerant son d\u00e9veloppement sont disponibles sur ce site.", 
+            "title": "FusOlar Game - Documentation"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#phylosophie", 
+            "text": "", 
+            "title": "Phylosophie"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#developpement", 
+            "text": "", 
+            "title": "D\u00e9veloppement"
+        }, 
+        {
+            "location": "/#contact", 
+            "text": "Si vous avez des questions, des id\u00e9es, des suggetions ou m\u00eame des r\u00e9clamations, vous pouvez me contacter via:   Facebook:  http://fb.com/FusOlar.game  Twitter:  http://twitter.com/FusolarGame  Email:  support@fusolar.net   Et je passe aussi parfois sur Instagram:  http://www.instagram.com/fusolargame", 
+            "title": "Contact"
+        }, 
+        {
+            "location": "/features/", 
+            "text": "", 
+            "title": "Fonctionnalit\u00e9s"
+        }, 
+        {
+            "location": "/development/", 
+            "text": "", 
+            "title": "D\u00e9veloppement"
+        }, 
+        {
+            "location": "/whoiam/", 
+            "text": "", 
+            "title": "Qui suis-je ?"
         }
     ]
 }
