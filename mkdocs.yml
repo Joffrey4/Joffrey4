@@ -8,7 +8,7 @@ extra_css: [extra.css]
 pages:
     - 'Accueil': 'index.md'
     - 'Fonctionnalités':
-        - 'Planètes de type différents': 'features/kind-of-planets.md'
+        - 'Planètes de types différents': 'features/kind-of-planets.md'
         - 'Usines et productions limitées': 'features/limited-factories.md'
         - 'Productions différées': 'features/delayed-production.md'
         - 'Niveaux de sécurité': 'features/security-level.md'
