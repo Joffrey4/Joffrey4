@@ -2,33 +2,183 @@
     "docs": [
         {
             "location": "/", 
-            "text": "FusOlar Game - Documentation\n\n\nFusOlar est un jeu de strat\u00e9gie en ligne dans l'espace. Il n'est pas encore disponible, mais toutes les informations concerant son d\u00e9veloppement sont disponibles sur ce site.\n\n\nPhylosophie\n\n\nD\u00e9veloppement\n\n\nContact\n\n\nSi vous avez des questions, des id\u00e9es, des suggetions ou m\u00eame des r\u00e9clamations, vous pouvez me contacter via:\n\n\n\n\nFacebook: \nhttp://fb.com/FusOlar.game\n\n\nTwitter: \nhttp://twitter.com/FusolarGame\n\n\nEmail: \nsupport@fusolar.net\n\n\n\n\nEt je passe aussi parfois sur Instagram: \nhttp://www.instagram.com/fusolargame", 
+            "text": "Documentation sur le jeu et son d\u00e9veloppement\n\n\nFusOlar est un jeu de strat\u00e9gie en ligne dans l'espace dans le style d'Ogame. Il est encore en d\u00e9veloppement mais toutes les informations le concernant sont disponibles sur ce site. Un descriptif complet de ses fonctionnalit\u00e9s est disponible dans la cat\u00e9gorie \nfonctionnalit\u00e9s\n. \n\n\nPhylosophie\n\n\nLes graphismes d'Ogame sont vieillisant et son gameplay n'a jamais \u00e9t\u00e9 renouvell\u00e9. Il n'est pas joli et il est monotone.\n\n\nPourtant, aujourd'hui, les navigateurs peuvent facilement afficher de la 3D fluide et dynamique. L'image d'une usine sur une page web peut devenir un b\u00e2timent mod\u00e9lis\u00e9 et plac\u00e9 \u00e0 l'endroit o\u00f9 vous le souhaitez sur votre plan\u00e8te, qui elle aussi est en 3D.\n\n\nAinsi, plus de possibilit\u00e9s au niveau des graphismes offre plus de possibilit\u00e9s au niveau du gameplay. FusOlar est n\u00e9 dans l'optique d'int\u00e9grer toutes ces nouvelles possibilit\u00e9 dans un jeu de conqu\u00eate spatiale qui nous a passionn\u00e9.\n\n\nD\u00e9veloppement\n\n\nLe moteur du jeu est d\u00e9velopp\u00e9 en Python (2.7) avec Django (1.9). Le site web et les rendus 3D sont en HTML5. Plus d'infos sur la page de \nd\u00e9veloppement\n.\n\n\nContact\n\n\nSi vous avez des questions, des id\u00e9es, des suggetions ou m\u00eame des r\u00e9clamations, vous pouvez me contacter via:\n\n\n\n\nFacebook: \nhttp://fb.com/FusOlar.game\n\n\nTwitter: \nhttp://twitter.com/FusolarGame\n\n\nEmail: \nsupport@fusolar.net\n\n\nEt m\u00eame Instagram: \nhttp://www.instagram.com/fusolargame", 
             "title": "Accueil"
         }, 
         {
-            "location": "/#fusolar-game-documentation", 
-            "text": "FusOlar est un jeu de strat\u00e9gie en ligne dans l'espace. Il n'est pas encore disponible, mais toutes les informations concerant son d\u00e9veloppement sont disponibles sur ce site.", 
-            "title": "FusOlar Game - Documentation"
+            "location": "/#documentation-sur-le-jeu-et-son-developpement", 
+            "text": "FusOlar est un jeu de strat\u00e9gie en ligne dans l'espace dans le style d'Ogame. Il est encore en d\u00e9veloppement mais toutes les informations le concernant sont disponibles sur ce site. Un descriptif complet de ses fonctionnalit\u00e9s est disponible dans la cat\u00e9gorie  fonctionnalit\u00e9s .", 
+            "title": "Documentation sur le jeu et son d\u00e9veloppement"
         }, 
         {
             "location": "/#phylosophie", 
-            "text": "", 
+            "text": "Les graphismes d'Ogame sont vieillisant et son gameplay n'a jamais \u00e9t\u00e9 renouvell\u00e9. Il n'est pas joli et il est monotone.  Pourtant, aujourd'hui, les navigateurs peuvent facilement afficher de la 3D fluide et dynamique. L'image d'une usine sur une page web peut devenir un b\u00e2timent mod\u00e9lis\u00e9 et plac\u00e9 \u00e0 l'endroit o\u00f9 vous le souhaitez sur votre plan\u00e8te, qui elle aussi est en 3D.  Ainsi, plus de possibilit\u00e9s au niveau des graphismes offre plus de possibilit\u00e9s au niveau du gameplay. FusOlar est n\u00e9 dans l'optique d'int\u00e9grer toutes ces nouvelles possibilit\u00e9 dans un jeu de conqu\u00eate spatiale qui nous a passionn\u00e9.", 
             "title": "Phylosophie"
         }, 
         {
             "location": "/#developpement", 
-            "text": "", 
+            "text": "Le moteur du jeu est d\u00e9velopp\u00e9 en Python (2.7) avec Django (1.9). Le site web et les rendus 3D sont en HTML5. Plus d'infos sur la page de  d\u00e9veloppement .", 
             "title": "D\u00e9veloppement"
         }, 
         {
             "location": "/#contact", 
-            "text": "Si vous avez des questions, des id\u00e9es, des suggetions ou m\u00eame des r\u00e9clamations, vous pouvez me contacter via:   Facebook:  http://fb.com/FusOlar.game  Twitter:  http://twitter.com/FusolarGame  Email:  support@fusolar.net   Et je passe aussi parfois sur Instagram:  http://www.instagram.com/fusolargame", 
+            "text": "Si vous avez des questions, des id\u00e9es, des suggetions ou m\u00eame des r\u00e9clamations, vous pouvez me contacter via:   Facebook:  http://fb.com/FusOlar.game  Twitter:  http://twitter.com/FusolarGame  Email:  support@fusolar.net  Et m\u00eame Instagram:  http://www.instagram.com/fusolargame", 
             "title": "Contact"
         }, 
         {
-            "location": "/features/", 
-            "text": "", 
-            "title": "Fonctionnalit\u00e9s"
+            "location": "/features/kind-of-planets/", 
+            "text": "Plan\u00e8tes de types diff\u00e9rents\n\n\nVersion 1.0 - Inspir\u00e9 de Eve Online\n\n\nExplications\n\n\nGazeuses, d\u00e9sertiques, glac\u00e9es, terrienne, oc\u00e9aniques ou encore de lave,\nvoil\u00e0 des exemples de plan\u00e8tes qui peupleront les syst\u00e8mes solaires. \nChacune pourra produire les trois ressources de base mais en quantit\u00e9s \ndiff\u00e9rentes et de mani\u00e8re diff\u00e9rente.\n\n\nAinsi, il y aura plusieurs types d\u2019usine de m\u00e9tal, de cristal et de \ndeut\u00e9rium, chacun allant avec le type de plan\u00e8te correspondant. \nEn pratique, lorsque vous coloniserez une plan\u00e8te, vous devrez vous \nassurer d\u2019avoir d\u00e9bloqu\u00e9 les b\u00e2timents permettant d\u2019y construire vos usines.\n\n\nA l\u2019inscription, chaque joueur commence sur une plan\u00e8te de type Terrien. \nCes plan\u00e8tes permettront de produire les trois types de ressources en \nquantit\u00e9 \u00e9gale. Mais individuellement, chaque ressource pourra s\u2019obtenir \nde mani\u00e8re plus abondante sur un autre type de plan\u00e8te.\n\n\nExemple\n\n\nLa photo ci-dessous est tir\u00e9e de Eve Online: (\nVoir en grand\n)\n\n\n\n\nAm\u00e9liorations\n\n\nSi vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me \ncontacter\n.", 
+            "title": "Plan\u00e8tes de type diff\u00e9rents"
+        }, 
+        {
+            "location": "/features/kind-of-planets/#planetes-de-types-differents", 
+            "text": "Version 1.0 - Inspir\u00e9 de Eve Online", 
+            "title": "Plan\u00e8tes de types diff\u00e9rents"
+        }, 
+        {
+            "location": "/features/kind-of-planets/#explications", 
+            "text": "Gazeuses, d\u00e9sertiques, glac\u00e9es, terrienne, oc\u00e9aniques ou encore de lave,\nvoil\u00e0 des exemples de plan\u00e8tes qui peupleront les syst\u00e8mes solaires. \nChacune pourra produire les trois ressources de base mais en quantit\u00e9s \ndiff\u00e9rentes et de mani\u00e8re diff\u00e9rente.  Ainsi, il y aura plusieurs types d\u2019usine de m\u00e9tal, de cristal et de \ndeut\u00e9rium, chacun allant avec le type de plan\u00e8te correspondant. \nEn pratique, lorsque vous coloniserez une plan\u00e8te, vous devrez vous \nassurer d\u2019avoir d\u00e9bloqu\u00e9 les b\u00e2timents permettant d\u2019y construire vos usines.  A l\u2019inscription, chaque joueur commence sur une plan\u00e8te de type Terrien. \nCes plan\u00e8tes permettront de produire les trois types de ressources en \nquantit\u00e9 \u00e9gale. Mais individuellement, chaque ressource pourra s\u2019obtenir \nde mani\u00e8re plus abondante sur un autre type de plan\u00e8te.", 
+            "title": "Explications"
+        }, 
+        {
+            "location": "/features/kind-of-planets/#exemple", 
+            "text": "La photo ci-dessous est tir\u00e9e de Eve Online: ( Voir en grand )", 
+            "title": "Exemple"
+        }, 
+        {
+            "location": "/features/kind-of-planets/#ameliorations", 
+            "text": "Si vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me  contacter .", 
+            "title": "Am\u00e9liorations"
+        }, 
+        {
+            "location": "/features/limited-factories/", 
+            "text": "Usines et productions limit\u00e9es\n\n\nVersion 1.0 - Inspir\u00e9 de Offworld Trading Company\n\n\nExplications\n\n\nLe joueur disposera d\u2019une technologie permettant de scanner les plan\u00e8tes\npour y d\u00e9terminer les lieux o\u00f9 trouver chaque type de ressource, ainsi \nque l\u2019abondance de ces ressources. Ce scan pourra s\u2019effectuer depuis l\u2019espace, \nsans avoir besoin de coloniser, et m\u00eame sur des plan\u00e8tes d\u00e9j\u00e0 colonis\u00e9es.\n\n\nLorsque le joueur colonise la plan\u00e8te, il dispose d\u2019un nombre de \u00ab cases \u00bb \nrepr\u00e9sentant le nombre maximum de b\u00e2timents qu\u2019il peut y construire. \nLe joueur devra placer ses usines sur les lieux o\u00f9 elles seront les plus \nproductives, l\u00e0 o\u00f9 une ressource est abondante. Une usine plac\u00e9e utilise \nune case. Ensuite, il pourra faire \u00e9voluer individuellement le niveau de \nchaque usine sans que cela ne lui co\u00fbte de cases suppl\u00e9mentaires.\n\n\nCertaines ressources seront renouvelables, c\u2019est \u00e0 dire infinies, tandis \nque d\u2019autres seront \u00e9puisables. Pour les renouvelables, le joueur devra \nconstruire une usine de niveau suffisamment \u00e9lev\u00e9 pour optimiser son rendement, \nsans pour autant surexploiter la ressource. Sans quoi, la ressource fournira \nmoins de produits, et donc l\u2019usine tournera au ralentis. Pour les ressources \n\u00e9puisables, une fois que l\u2019une d\u2019elles est vide, l\u2019usine s\u2019arr\u00eatera simplement \nde tourner. Celle-ci devra \u00eatre d\u00e9truite et reconstruite ailleurs.\n\n\nAm\u00e9liorations\n\n\nSi vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me \ncontacter\n.", 
+            "title": "Usines et productions limit\u00e9es"
+        }, 
+        {
+            "location": "/features/limited-factories/#usines-et-productions-limitees", 
+            "text": "Version 1.0 - Inspir\u00e9 de Offworld Trading Company", 
+            "title": "Usines et productions limit\u00e9es"
+        }, 
+        {
+            "location": "/features/limited-factories/#explications", 
+            "text": "Le joueur disposera d\u2019une technologie permettant de scanner les plan\u00e8tes\npour y d\u00e9terminer les lieux o\u00f9 trouver chaque type de ressource, ainsi \nque l\u2019abondance de ces ressources. Ce scan pourra s\u2019effectuer depuis l\u2019espace, \nsans avoir besoin de coloniser, et m\u00eame sur des plan\u00e8tes d\u00e9j\u00e0 colonis\u00e9es.  Lorsque le joueur colonise la plan\u00e8te, il dispose d\u2019un nombre de \u00ab cases \u00bb \nrepr\u00e9sentant le nombre maximum de b\u00e2timents qu\u2019il peut y construire. \nLe joueur devra placer ses usines sur les lieux o\u00f9 elles seront les plus \nproductives, l\u00e0 o\u00f9 une ressource est abondante. Une usine plac\u00e9e utilise \nune case. Ensuite, il pourra faire \u00e9voluer individuellement le niveau de \nchaque usine sans que cela ne lui co\u00fbte de cases suppl\u00e9mentaires.  Certaines ressources seront renouvelables, c\u2019est \u00e0 dire infinies, tandis \nque d\u2019autres seront \u00e9puisables. Pour les renouvelables, le joueur devra \nconstruire une usine de niveau suffisamment \u00e9lev\u00e9 pour optimiser son rendement, \nsans pour autant surexploiter la ressource. Sans quoi, la ressource fournira \nmoins de produits, et donc l\u2019usine tournera au ralentis. Pour les ressources \n\u00e9puisables, une fois que l\u2019une d\u2019elles est vide, l\u2019usine s\u2019arr\u00eatera simplement \nde tourner. Celle-ci devra \u00eatre d\u00e9truite et reconstruite ailleurs.", 
+            "title": "Explications"
+        }, 
+        {
+            "location": "/features/limited-factories/#ameliorations", 
+            "text": "Si vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me  contacter .", 
+            "title": "Am\u00e9liorations"
+        }, 
+        {
+            "location": "/features/delayed-production/", 
+            "text": "Productions diff\u00e9r\u00e9es\n\n\nVersion 1.0 - Inspir\u00e9 de Eve Online\n\n\nExplications\n\n\nSi la construction d\u2019une usine enti\u00e8re peut prendre 5 cases, ne construire\nque ses mines, ou en tout cas, ne construire que les modules qui r\u00e9cup\u00e8rent\nles ressources primaires, prendra seulement 1 ou 2 cases.\n\n\nAinsi, le joueur pourra choisir de ne d\u00e9dier certaines plan\u00e8tes qu\u2019\u00e0 la\nr\u00e9cup\u00e9ration de ressources primaires, et d\u2019autres \u00e0 la transformation en\nmat\u00e9riaux de base (M\u00e9tal, Cristal, Deut\u00e9rium). Il pourra optimiser ainsi\nses productions et il s\u2019\u00e9vitera d\u2019utiliser inutilement des cases en ne\nconstruisant pas d\u2019usines au complet sur des ressources \u00e9puisables.\n\n\nDans ce cas, le transport des ressources primaires vers une plan\u00e8te qui\nles transformera sera essentiel.\n\n\nExemple\n\n\nLa photo ci-dessous est tir\u00e9e de Eve Online. Elle montre des usines sur une plan\u00e8te, \net leurs productions qui sont directement envoy\u00e9es dans l'espace.\n\n\n\n\nAm\u00e9liorations\n\n\nSi vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me \ncontacter\n.", 
+            "title": "Productions diff\u00e9r\u00e9es"
+        }, 
+        {
+            "location": "/features/delayed-production/#productions-differees", 
+            "text": "Version 1.0 - Inspir\u00e9 de Eve Online", 
+            "title": "Productions diff\u00e9r\u00e9es"
+        }, 
+        {
+            "location": "/features/delayed-production/#explications", 
+            "text": "Si la construction d\u2019une usine enti\u00e8re peut prendre 5 cases, ne construire\nque ses mines, ou en tout cas, ne construire que les modules qui r\u00e9cup\u00e8rent\nles ressources primaires, prendra seulement 1 ou 2 cases.  Ainsi, le joueur pourra choisir de ne d\u00e9dier certaines plan\u00e8tes qu\u2019\u00e0 la\nr\u00e9cup\u00e9ration de ressources primaires, et d\u2019autres \u00e0 la transformation en\nmat\u00e9riaux de base (M\u00e9tal, Cristal, Deut\u00e9rium). Il pourra optimiser ainsi\nses productions et il s\u2019\u00e9vitera d\u2019utiliser inutilement des cases en ne\nconstruisant pas d\u2019usines au complet sur des ressources \u00e9puisables.  Dans ce cas, le transport des ressources primaires vers une plan\u00e8te qui\nles transformera sera essentiel.", 
+            "title": "Explications"
+        }, 
+        {
+            "location": "/features/delayed-production/#exemple", 
+            "text": "La photo ci-dessous est tir\u00e9e de Eve Online. Elle montre des usines sur une plan\u00e8te, \net leurs productions qui sont directement envoy\u00e9es dans l'espace.", 
+            "title": "Exemple"
+        }, 
+        {
+            "location": "/features/delayed-production/#ameliorations", 
+            "text": "Si vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me  contacter .", 
+            "title": "Am\u00e9liorations"
+        }, 
+        {
+            "location": "/features/security-level/", 
+            "text": "Niveaux de s\u00e9curit\u00e9\n\n\nVersion 1.0 - Inspir\u00e9 de Eve Online\n\n\nExplications\n\n\nChaque syst\u00e8me du jeu aura un niveau de s\u00e9curit\u00e9 \u00e9tablit sur une \u00e9chelle \nde 10 \u00e0 0. Avec 10, le niveau de s\u00e9curit\u00e9 maximale, et 0 le plus haut niveau\nde dangerosit\u00e9. \n\n\n\n\nUne plan\u00e8te dans un syst\u00e8me de s\u00e9curit\u00e9 10 ne pourra pas \u00eatre attaqu\u00e9e ni espionn\u00e9e par les PNJ et les autres joueurs. Dans ces syst\u00e8mes, le PVP est d\u00e9sactiv\u00e9. \n\n\nDe 9 \u00e0 5 (compris), le PVP est activ\u00e9 mais il faut avoir un nombre de points plus ou moins \u00e9gale \u00e0 un joueur pour l\u2019attaquer. Et plus le niveau de s\u00e9curit\u00e9 baisse, plus l\u2019\u00e9cart de points entre vous et un autre joueur pourra \u00eatre grand. En clair : plus de monde pourra vous attaquer.\n\n\nEn dessous de 5, tout le monde peut s\u2019attaquer.\n\n\nEn dessous de 4, il n\u2019y a plus aucune r\u00e8gle comme celles concernant le nombre d\u2019attaques maximum par heure, jours, etc.\n\n\n\n\nEn parall\u00e8le, plus le niveau de s\u00e9curit\u00e9 sera bas et plus les PNJ auront \ndes d\u00e9fenses sur leurs plan\u00e8tes. Mais plus ils auront des ressources rares \net importantes entrepos\u00e9es. Et ils pourront aussi attaquer : \u00e0 partir de \n9 et plus le niveau de s\u00e9curit\u00e9 sera faible, plus leurs attaques seront violentes.\n\n\nLe niveau de s\u00e9curit\u00e9 impactera aussi les plan\u00e8tes et leurs ressources: \nLes plan\u00e8tes seront plus petites et auront des ressources moins abondantes \ndans un niveau de s\u00e9curit\u00e9 \u00e9lev\u00e9. Et seront grosses, avec des ressources \nen nombre et en quantit\u00e9 lorsqu\u2019elles seront dans un syst\u00e8me \u00e0 faible niveau de s\u00e9curit\u00e9.\n\n\nCe syst\u00e8me a \u00e9galement l\u2019avantage de permettre aux nouveaux joueurs d\u2019\u00e9tablir \nun empire sans risque. Toutes les plan\u00e8tes m\u00e8res, celles que chacun \nobtient quand il s\u2019inscrira sur le jeu, seront en s\u00e9curit\u00e9 10. Il faudra \nensuite choisir : coloniser en 10, ne pas prendre de risque, mais avoir \npeu de retour ? Ou bien prendre plus de risque, coloniser en 3 et avoir \nbeaucoup de retours ?\n\n\nAm\u00e9liorations\n\n\nSi vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me \ncontacter\n.", 
+            "title": "Niveaux de s\u00e9curit\u00e9"
+        }, 
+        {
+            "location": "/features/security-level/#niveaux-de-securite", 
+            "text": "Version 1.0 - Inspir\u00e9 de Eve Online", 
+            "title": "Niveaux de s\u00e9curit\u00e9"
+        }, 
+        {
+            "location": "/features/security-level/#explications", 
+            "text": "Chaque syst\u00e8me du jeu aura un niveau de s\u00e9curit\u00e9 \u00e9tablit sur une \u00e9chelle \nde 10 \u00e0 0. Avec 10, le niveau de s\u00e9curit\u00e9 maximale, et 0 le plus haut niveau\nde dangerosit\u00e9.    Une plan\u00e8te dans un syst\u00e8me de s\u00e9curit\u00e9 10 ne pourra pas \u00eatre attaqu\u00e9e ni espionn\u00e9e par les PNJ et les autres joueurs. Dans ces syst\u00e8mes, le PVP est d\u00e9sactiv\u00e9.   De 9 \u00e0 5 (compris), le PVP est activ\u00e9 mais il faut avoir un nombre de points plus ou moins \u00e9gale \u00e0 un joueur pour l\u2019attaquer. Et plus le niveau de s\u00e9curit\u00e9 baisse, plus l\u2019\u00e9cart de points entre vous et un autre joueur pourra \u00eatre grand. En clair : plus de monde pourra vous attaquer.  En dessous de 5, tout le monde peut s\u2019attaquer.  En dessous de 4, il n\u2019y a plus aucune r\u00e8gle comme celles concernant le nombre d\u2019attaques maximum par heure, jours, etc.   En parall\u00e8le, plus le niveau de s\u00e9curit\u00e9 sera bas et plus les PNJ auront \ndes d\u00e9fenses sur leurs plan\u00e8tes. Mais plus ils auront des ressources rares \net importantes entrepos\u00e9es. Et ils pourront aussi attaquer : \u00e0 partir de \n9 et plus le niveau de s\u00e9curit\u00e9 sera faible, plus leurs attaques seront violentes.  Le niveau de s\u00e9curit\u00e9 impactera aussi les plan\u00e8tes et leurs ressources: \nLes plan\u00e8tes seront plus petites et auront des ressources moins abondantes \ndans un niveau de s\u00e9curit\u00e9 \u00e9lev\u00e9. Et seront grosses, avec des ressources \nen nombre et en quantit\u00e9 lorsqu\u2019elles seront dans un syst\u00e8me \u00e0 faible niveau de s\u00e9curit\u00e9.  Ce syst\u00e8me a \u00e9galement l\u2019avantage de permettre aux nouveaux joueurs d\u2019\u00e9tablir \nun empire sans risque. Toutes les plan\u00e8tes m\u00e8res, celles que chacun \nobtient quand il s\u2019inscrira sur le jeu, seront en s\u00e9curit\u00e9 10. Il faudra \nensuite choisir : coloniser en 10, ne pas prendre de risque, mais avoir \npeu de retour ? Ou bien prendre plus de risque, coloniser en 3 et avoir \nbeaucoup de retours ?", 
+            "title": "Explications"
+        }, 
+        {
+            "location": "/features/security-level/#ameliorations", 
+            "text": "Si vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me  contacter .", 
+            "title": "Am\u00e9liorations"
+        }, 
+        {
+            "location": "/features/wormholes-hidden-systems/", 
+            "text": "Trou de ver et syst\u00e8mes cach\u00e9s\n\n\nVersion 1.0 - Inspir\u00e9 de Eve Online\n\n\nExplications\n\n\nLors d\u2019une exploration, le joueur pourra trouver un trou de ver, c\u2019est-\u00e0-dire \nun portail stellaire menant \u00e0 un syst\u00e8me connu ou cach\u00e9. Ces portails seront \nouverts de mani\u00e8re provisoire : ils seront limit\u00e9s en volume et en temps. \nDonc vous ne pourrez y faire passer qu\u2019un nombre de vaisseaux dont le volume \ntotal ne d\u00e9passe pas celui support\u00e9 par le trou de ver. Et vous devrez le \ntraverser avant que celui-ci n\u2019ait atteint la fin de sa dur\u00e9e de vie. Une \nfois ce volume ou cette dur\u00e9e atteint, le trou de ver se referme. Les \ndur\u00e9es de vie oscilleront entre 24 et 48h. \n\n\nLes trous de ver m\u00e8neront parfois \u00e0 des syst\u00e8me connus : cela peut \u00eatre \nle syst\u00e8me juste \u00e0 c\u00f4t\u00e9 de chez vous, ou bien un se trouvant de l\u2019autre \nc\u00f4t\u00e9 de l\u2019univers. Et ils m\u00e8neront parfois \u00e0 des syst\u00e8mes inconnus. Ces \nsyst\u00e8mes auront des s\u00e9curit\u00e9s nulles voire n\u00e9gatives. Avec parfois pas \nde soleil, ou parfois pas de plan\u00e8tes. Mais en contrepartie, les plan\u00e8tes \nqu\u2019ils abriteront seront \u00e9norme et seront les plus abondantes en ressources du jeu. \n\n\nLa seule possibilit\u00e9 pour un joueur ayant colonis\u00e9 une de ces plan\u00e8tes \npour faire voyager des flottes entre ce syst\u00e8me et les syst\u00e8mes traditionnels, \nsera de poss\u00e9der une lune avec un portail stellaire.\n\n\nExemple\n\n\nLa photo ci-dessous est tir\u00e9e de Eve Online. On y voit un vaisseau \ns'apprettant \u00e0 renter dans un trou de ver. (\nVoir en grand\n)\n\n\n\n\nAm\u00e9liorations\n\n\nSi vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me \ncontacter\n.", 
+            "title": "Trou de ver et syst\u00e8mes cach\u00e9s"
+        }, 
+        {
+            "location": "/features/wormholes-hidden-systems/#trou-de-ver-et-systemes-caches", 
+            "text": "Version 1.0 - Inspir\u00e9 de Eve Online", 
+            "title": "Trou de ver et syst\u00e8mes cach\u00e9s"
+        }, 
+        {
+            "location": "/features/wormholes-hidden-systems/#explications", 
+            "text": "Lors d\u2019une exploration, le joueur pourra trouver un trou de ver, c\u2019est-\u00e0-dire \nun portail stellaire menant \u00e0 un syst\u00e8me connu ou cach\u00e9. Ces portails seront \nouverts de mani\u00e8re provisoire : ils seront limit\u00e9s en volume et en temps. \nDonc vous ne pourrez y faire passer qu\u2019un nombre de vaisseaux dont le volume \ntotal ne d\u00e9passe pas celui support\u00e9 par le trou de ver. Et vous devrez le \ntraverser avant que celui-ci n\u2019ait atteint la fin de sa dur\u00e9e de vie. Une \nfois ce volume ou cette dur\u00e9e atteint, le trou de ver se referme. Les \ndur\u00e9es de vie oscilleront entre 24 et 48h.   Les trous de ver m\u00e8neront parfois \u00e0 des syst\u00e8me connus : cela peut \u00eatre \nle syst\u00e8me juste \u00e0 c\u00f4t\u00e9 de chez vous, ou bien un se trouvant de l\u2019autre \nc\u00f4t\u00e9 de l\u2019univers. Et ils m\u00e8neront parfois \u00e0 des syst\u00e8mes inconnus. Ces \nsyst\u00e8mes auront des s\u00e9curit\u00e9s nulles voire n\u00e9gatives. Avec parfois pas \nde soleil, ou parfois pas de plan\u00e8tes. Mais en contrepartie, les plan\u00e8tes \nqu\u2019ils abriteront seront \u00e9norme et seront les plus abondantes en ressources du jeu.   La seule possibilit\u00e9 pour un joueur ayant colonis\u00e9 une de ces plan\u00e8tes \npour faire voyager des flottes entre ce syst\u00e8me et les syst\u00e8mes traditionnels, \nsera de poss\u00e9der une lune avec un portail stellaire.", 
+            "title": "Explications"
+        }, 
+        {
+            "location": "/features/wormholes-hidden-systems/#exemple", 
+            "text": "La photo ci-dessous est tir\u00e9e de Eve Online. On y voit un vaisseau \ns'apprettant \u00e0 renter dans un trou de ver. ( Voir en grand )", 
+            "title": "Exemple"
+        }, 
+        {
+            "location": "/features/wormholes-hidden-systems/#ameliorations", 
+            "text": "Si vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me  contacter .", 
+            "title": "Am\u00e9liorations"
+        }, 
+        {
+            "location": "/features/fleet-limits/", 
+            "text": "Limitations de flotte hors alliance\n\n\nVersion 1.0 - Am\u00e9lior\u00e9 d'Ogame\n\n\nExplications\n\n\nAfin de limiter la puissance des gros joueurs, il y aura un volume maximum \nde vaisseau pouvant constituer une flotte. En gros, il sera impossible \nd\u2019envoyer (par exemple) 50 \u00e9toiles de la mort pour tout d\u00e9truire. Ce n\u2019est \namusant pour personne et il y a mieux comme gameplay.\n\n\nToutefois, des joueurs constitu\u00e9s en alliance pourront faire des flottes \nd\u2019alliance o\u00f9 leurs volumes individuels seront additionn\u00e9s. Ainsi, pour \n\u00eatre puissant, il faudra s\u2019allier. Et des r\u00e8gles strictes encadreront les \nattaques d\u2019alliance : Il sera notamment impossible pour l\u2019une d\u2019elles \nd\u2019attaquer un joueur individuel sans que celui-ci n\u2019ait d\u2019abord attaqu\u00e9 un \nmembre de l\u2019alliance. \n\n\nDe cette mani\u00e8re, il y a une limite \u00e0 la puissance individuelle de chaque \njoueur. Laissant ainsi aux nouveaux la possibilit\u00e9 d\u2019\u00e9voluer. Et de surcro\u00eet: \nun nouveau qui rejoint une alliance sera d\u00e9fendu, et fournira la possibilit\u00e9 \n\u00e0 l\u2019alliance d\u2019attaquer certains les joueurs qui l\u2019ont agress\u00e9.\n\n\nAm\u00e9liorations\n\n\nSi vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me \ncontacter\n.", 
+            "title": "Limitations de flotte hors alliance"
+        }, 
+        {
+            "location": "/features/fleet-limits/#limitations-de-flotte-hors-alliance", 
+            "text": "Version 1.0 - Am\u00e9lior\u00e9 d'Ogame", 
+            "title": "Limitations de flotte hors alliance"
+        }, 
+        {
+            "location": "/features/fleet-limits/#explications", 
+            "text": "Afin de limiter la puissance des gros joueurs, il y aura un volume maximum \nde vaisseau pouvant constituer une flotte. En gros, il sera impossible \nd\u2019envoyer (par exemple) 50 \u00e9toiles de la mort pour tout d\u00e9truire. Ce n\u2019est \namusant pour personne et il y a mieux comme gameplay.  Toutefois, des joueurs constitu\u00e9s en alliance pourront faire des flottes \nd\u2019alliance o\u00f9 leurs volumes individuels seront additionn\u00e9s. Ainsi, pour \n\u00eatre puissant, il faudra s\u2019allier. Et des r\u00e8gles strictes encadreront les \nattaques d\u2019alliance : Il sera notamment impossible pour l\u2019une d\u2019elles \nd\u2019attaquer un joueur individuel sans que celui-ci n\u2019ait d\u2019abord attaqu\u00e9 un \nmembre de l\u2019alliance.   De cette mani\u00e8re, il y a une limite \u00e0 la puissance individuelle de chaque \njoueur. Laissant ainsi aux nouveaux la possibilit\u00e9 d\u2019\u00e9voluer. Et de surcro\u00eet: \nun nouveau qui rejoint une alliance sera d\u00e9fendu, et fournira la possibilit\u00e9 \n\u00e0 l\u2019alliance d\u2019attaquer certains les joueurs qui l\u2019ont agress\u00e9.", 
+            "title": "Explications"
+        }, 
+        {
+            "location": "/features/fleet-limits/#ameliorations", 
+            "text": "Si vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me  contacter .", 
+            "title": "Am\u00e9liorations"
+        }, 
+        {
+            "location": "/features/alliance-tech-planets/", 
+            "text": "Plan\u00e8tes et technologies d\u2019alliance\n\n\nVersion 1.0 - Am\u00e9lior\u00e9 d'Ogame\n\n\nExplications\n\n\nChaque joueur pourra construire un nombre illimit\u00e9 de plan\u00e8tes. Mais une \nalliance, compos\u00e9e de plusieurs joueurs, pourra choisir de coloniser une \nplan\u00e8te pour l\u2019alliance. Et ce, dans des syst\u00e8mes de s\u00e9curit\u00e9 9 ou inf\u00e9rieur. \nCes plan\u00e8tes disposeront d\u2019un \u00ab booste \u00bb de production.\n\n\nSemblables aux plan\u00e8tes individuelles, l\u2019alliance pourra y d\u00e9velopper des \ntechnologies. Celles-ci pourront \u00e9voluer jusqu\u2019\u00e0 un niveau plus \u00e9lev\u00e9 que \nles technologies individuelles. Et si une technologie d\u2019alliance est plus \n\u00e9lev\u00e9e que la technologie individuelle d\u2019un de ses membres, le membre voit \nsa technologie boost\u00e9e \u00e9galement. Et l\u2019apprentissage de cette technologie \nest plus rapide. Les b\u00e2timents d\u2019une plan\u00e8te d\u2019alliance pourront aussi \nmonter \u00e0 des niveaux plus \u00e9lev\u00e9s. Y compris pour la terraformation. \n\n\nCe syst\u00e8me sera un tr\u00e8s bon compl\u00e9ment aux \nsyst\u00e8mes cach\u00e9s\n, qui, abritant \ndes plan\u00e8tes dangereuses, n\u00e9cessiteront plus de joueurs pour la prot\u00e9ger \net plus de ressources pour produire des d\u00e9fenses. De plus, une plan\u00e8te \nd\u2019alliance dans un trou de ver assurera presque \u00e0 100% de ne jamais \u00eatre \nattaqu\u00e9e par un joueur ou une alliance adverse.\n\n\nLe but de ce syst\u00e8me est de favoriser le jeu en groupe et d\u2019acc\u00e9l\u00e9rer la \nprogression des nouveaux joueurs.\n\n\nAm\u00e9liorations\n\n\nSi vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me \ncontacter\n.", 
+            "title": "Plan\u00e8tes et technologies d\u2019alliance"
+        }, 
+        {
+            "location": "/features/alliance-tech-planets/#planetes-et-technologies-dalliance", 
+            "text": "Version 1.0 - Am\u00e9lior\u00e9 d'Ogame", 
+            "title": "Plan\u00e8tes et technologies d\u2019alliance"
+        }, 
+        {
+            "location": "/features/alliance-tech-planets/#explications", 
+            "text": "Chaque joueur pourra construire un nombre illimit\u00e9 de plan\u00e8tes. Mais une \nalliance, compos\u00e9e de plusieurs joueurs, pourra choisir de coloniser une \nplan\u00e8te pour l\u2019alliance. Et ce, dans des syst\u00e8mes de s\u00e9curit\u00e9 9 ou inf\u00e9rieur. \nCes plan\u00e8tes disposeront d\u2019un \u00ab booste \u00bb de production.  Semblables aux plan\u00e8tes individuelles, l\u2019alliance pourra y d\u00e9velopper des \ntechnologies. Celles-ci pourront \u00e9voluer jusqu\u2019\u00e0 un niveau plus \u00e9lev\u00e9 que \nles technologies individuelles. Et si une technologie d\u2019alliance est plus \n\u00e9lev\u00e9e que la technologie individuelle d\u2019un de ses membres, le membre voit \nsa technologie boost\u00e9e \u00e9galement. Et l\u2019apprentissage de cette technologie \nest plus rapide. Les b\u00e2timents d\u2019une plan\u00e8te d\u2019alliance pourront aussi \nmonter \u00e0 des niveaux plus \u00e9lev\u00e9s. Y compris pour la terraformation.   Ce syst\u00e8me sera un tr\u00e8s bon compl\u00e9ment aux  syst\u00e8mes cach\u00e9s , qui, abritant \ndes plan\u00e8tes dangereuses, n\u00e9cessiteront plus de joueurs pour la prot\u00e9ger \net plus de ressources pour produire des d\u00e9fenses. De plus, une plan\u00e8te \nd\u2019alliance dans un trou de ver assurera presque \u00e0 100% de ne jamais \u00eatre \nattaqu\u00e9e par un joueur ou une alliance adverse.  Le but de ce syst\u00e8me est de favoriser le jeu en groupe et d\u2019acc\u00e9l\u00e9rer la \nprogression des nouveaux joueurs.", 
+            "title": "Explications"
+        }, 
+        {
+            "location": "/features/alliance-tech-planets/#ameliorations", 
+            "text": "Si vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me  contacter .", 
+            "title": "Am\u00e9liorations"
         }, 
         {
             "location": "/development/", 

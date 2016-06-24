@@ -3,9 +3,17 @@ site_dir: site
 repo-url: https://github.com/Joffrey4/Joffrey4
 copyright: Copyright © FusOlar Docs 2016 - All rights reserved.
 theme: readthedocs
+extra_css: [extra.css]
 
 pages:
     - 'Accueil': 'index.md'
-    - 'Fonctionnalités': 'features.md'
+    - 'Fonctionnalités':
+        - 'Planètes de type différents': 'features/kind-of-planets.md'
+        - 'Usines et productions limitées': 'features/limited-factories.md'
+        - 'Productions différées': 'features/delayed-production.md'
+        - 'Niveaux de sécurité': 'features/security-level.md'
+        - 'Trou de ver et systèmes cachés': 'features/wormholes-hidden-systems.md'
+        - 'Limitations de flotte hors alliance': 'features/fleet-limits.md'
+        - 'Planètes et technologies d’alliance': 'features/alliance-tech-planets.md'
     - 'Développement': 'development.md'
     - 'Qui suis-je ?': 'whoiam.md'
