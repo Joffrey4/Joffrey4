@@ -1,5 +1,6 @@
 site_name: FusOlar Game
-repo-url: https://github.com/Joffrey4/fusolar-docs
+site_dir: fusolar
+repo-url: https://github.com/Joffrey4/Joffrey4
 copyright: Copyright © FusOlar Docs 2016 - All rights reserved.
 theme: readthedocs
 
