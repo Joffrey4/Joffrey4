@@ -26,6 +26,51 @@
             "title": "Contact"
         }, 
         {
+            "location": "/features/exploration/", 
+            "text": "Exploration augment\u00e9e\n\n\nVersion 1.0 - Am\u00e9lior\u00e9 d'Ogame\n\n\nExplications\n\n\nLe but de l\u2019exploration est de trouver des lieux in\u00e9dits, cach\u00e9s, dans le \nsyst\u00e8me solaire. Pour cela, le joueur devra envoyer une flotte qui va scanner \net trouver ces lieux.\n\n\nUne fois que le joueur a s\u00e9lectionn\u00e9 ses vaisseaux, il visualisera une \ncarte du syst\u00e8me solaire. Point par point, il pourra d\u00e9finir une \u00ab route \u00bb \npour sa flotte (voir photo exemple). La distance et le temps minimum requis pour parcourir ce \nchemin sont calcul\u00e9s. Le joueur peut choisir de le parcourir plus lentement \ns\u2019il le souhaite. Plus la flotte va lentement, plus elle est susceptible de \ntrouver des lieux int\u00e9ressants.\n\n\nDurant le voyage de la flotte, la carte est mise \u00e0 jour avec lieux trouv\u00e9s. \nCes lieux pourront \u00eatre des ceintures d\u2019ast\u00e9ro\u00efdes, des bases stellaires \nabandonn\u00e9es (ou non) de PNJs, des trous de ver, et m\u00eame des plan\u00e8tes colonisables.\n\n\nD\u00e8s l'instant o\u00f9 ces lieux sont ajout\u00e9s sur la carte, le joueur pourra y \nenvoyer des flottes. Ils resteront affich\u00e9s jusqu'\u00e0 ce qu'il n'y ait \nplus rien \u00e0 y r\u00e9cup\u00e9rer.\n\n\nExemple\n\n\nLa photo ci-dessous est un exemple de carte avec le syst\u00e8me solaire au centre\net, en orange, le chemin d\u00e9finit par le joueur pour sa flotte.\n\n\n\n\nAm\u00e9liorations\n\n\nSi vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me \ncontacter\n.", 
+            "title": "Exploration augment\u00e9e"
+        }, 
+        {
+            "location": "/features/exploration/#exploration-augmentee", 
+            "text": "Version 1.0 - Am\u00e9lior\u00e9 d'Ogame", 
+            "title": "Exploration augment\u00e9e"
+        }, 
+        {
+            "location": "/features/exploration/#explications", 
+            "text": "Le but de l\u2019exploration est de trouver des lieux in\u00e9dits, cach\u00e9s, dans le \nsyst\u00e8me solaire. Pour cela, le joueur devra envoyer une flotte qui va scanner \net trouver ces lieux.  Une fois que le joueur a s\u00e9lectionn\u00e9 ses vaisseaux, il visualisera une \ncarte du syst\u00e8me solaire. Point par point, il pourra d\u00e9finir une \u00ab route \u00bb \npour sa flotte (voir photo exemple). La distance et le temps minimum requis pour parcourir ce \nchemin sont calcul\u00e9s. Le joueur peut choisir de le parcourir plus lentement \ns\u2019il le souhaite. Plus la flotte va lentement, plus elle est susceptible de \ntrouver des lieux int\u00e9ressants.  Durant le voyage de la flotte, la carte est mise \u00e0 jour avec lieux trouv\u00e9s. \nCes lieux pourront \u00eatre des ceintures d\u2019ast\u00e9ro\u00efdes, des bases stellaires \nabandonn\u00e9es (ou non) de PNJs, des trous de ver, et m\u00eame des plan\u00e8tes colonisables.  D\u00e8s l'instant o\u00f9 ces lieux sont ajout\u00e9s sur la carte, le joueur pourra y \nenvoyer des flottes. Ils resteront affich\u00e9s jusqu'\u00e0 ce qu'il n'y ait \nplus rien \u00e0 y r\u00e9cup\u00e9rer.", 
+            "title": "Explications"
+        }, 
+        {
+            "location": "/features/exploration/#exemple", 
+            "text": "La photo ci-dessous est un exemple de carte avec le syst\u00e8me solaire au centre\net, en orange, le chemin d\u00e9finit par le joueur pour sa flotte.", 
+            "title": "Exemple"
+        }, 
+        {
+            "location": "/features/exploration/#ameliorations", 
+            "text": "Si vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me  contacter .", 
+            "title": "Am\u00e9liorations"
+        }, 
+        {
+            "location": "/features/blueprint/", 
+            "text": "Plans de construction\n\n\nVersion 1.0 - Inspir\u00e9 de Eve Online\n\n\nExplications\n\n\nA l\u2019inscription, le joueur n\u2019aura acc\u00e8s qu\u2019au vaisseau l\u00e9ger et au vaisseau \nlourd. Pareil pour la d\u00e9fense : il n\u2019aura que les deux plus faibles installations. \nPour produire des mod\u00e8les plus puissants, le joueur devra r\u00e9cup\u00e9rer des \nplans de construction. Ces plans seront utilis\u00e9s par ses usines.\n\n\nAinsi, l\u2019exploration devient essentielle : hormis le commerce, elle sera \nle seul moyen de les r\u00e9cup\u00e9rer. De petites bases stellaires abandonn\u00e9es \nou non, sans int\u00e9r\u00eat au niveau des ressources, cacheront des plans de construction.\n\n\nCertains plans seront communs et faciles \u00e0 trouver. Nul doute qu\u2019ils \nseront rapidement mis sur le march\u00e9 \u00e0 un petit prix. Mais d\u2019autres \nseront beaucoup plus rares et seront limit\u00e9s sur le nombre de vaisseaux \nque le joueur pourra construire avec. Et d\u2019autres encore pourraient n\u2019\u00eatre \ndisponibles que durant certains \u00e9v\u00e8nements. Au grand bonheur de quelques \nchanceux qui pourront produire des vaisseaux exclusifs.\n\n\nEnfin, des plans de construction pour b\u00e2timents pourraient aussi appara\u00eetre. \nOffrant ainsi des b\u00e2timents exclusifs, ou simplement une version am\u00e9lior\u00e9e \nd\u2019un b\u00e2timent existant.\n\n\nAm\u00e9liorations\n\n\nSi vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me \ncontacter\n.", 
+            "title": "Plans de construction"
+        }, 
+        {
+            "location": "/features/blueprint/#plans-de-construction", 
+            "text": "Version 1.0 - Inspir\u00e9 de Eve Online", 
+            "title": "Plans de construction"
+        }, 
+        {
+            "location": "/features/blueprint/#explications", 
+            "text": "A l\u2019inscription, le joueur n\u2019aura acc\u00e8s qu\u2019au vaisseau l\u00e9ger et au vaisseau \nlourd. Pareil pour la d\u00e9fense : il n\u2019aura que les deux plus faibles installations. \nPour produire des mod\u00e8les plus puissants, le joueur devra r\u00e9cup\u00e9rer des \nplans de construction. Ces plans seront utilis\u00e9s par ses usines.  Ainsi, l\u2019exploration devient essentielle : hormis le commerce, elle sera \nle seul moyen de les r\u00e9cup\u00e9rer. De petites bases stellaires abandonn\u00e9es \nou non, sans int\u00e9r\u00eat au niveau des ressources, cacheront des plans de construction.  Certains plans seront communs et faciles \u00e0 trouver. Nul doute qu\u2019ils \nseront rapidement mis sur le march\u00e9 \u00e0 un petit prix. Mais d\u2019autres \nseront beaucoup plus rares et seront limit\u00e9s sur le nombre de vaisseaux \nque le joueur pourra construire avec. Et d\u2019autres encore pourraient n\u2019\u00eatre \ndisponibles que durant certains \u00e9v\u00e8nements. Au grand bonheur de quelques \nchanceux qui pourront produire des vaisseaux exclusifs.  Enfin, des plans de construction pour b\u00e2timents pourraient aussi appara\u00eetre. \nOffrant ainsi des b\u00e2timents exclusifs, ou simplement une version am\u00e9lior\u00e9e \nd\u2019un b\u00e2timent existant.", 
+            "title": "Explications"
+        }, 
+        {
+            "location": "/features/blueprint/#ameliorations", 
+            "text": "Si vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me  contacter .", 
+            "title": "Am\u00e9liorations"
+        }, 
+        {
             "location": "/features/kind-of-planets/", 
             "text": "Plan\u00e8tes de types diff\u00e9rents\n\n\nVersion 1.0 - Inspir\u00e9 de Eve Online\n\n\nExplications\n\n\nGazeuses, d\u00e9sertiques, glac\u00e9es, terrienne, oc\u00e9aniques ou encore de lave,\nvoil\u00e0 des exemples de plan\u00e8tes qui peupleront les syst\u00e8mes solaires. \nChacune pourra produire les trois ressources de base mais en quantit\u00e9s \ndiff\u00e9rentes et de mani\u00e8re diff\u00e9rente.\n\n\nAinsi, il y aura plusieurs types d\u2019usine de m\u00e9tal, de cristal et de \ndeut\u00e9rium, chacun allant avec le type de plan\u00e8te correspondant. \nEn pratique, lorsque vous coloniserez une plan\u00e8te, vous devrez vous \nassurer d\u2019avoir d\u00e9bloqu\u00e9 les b\u00e2timents permettant d\u2019y construire vos usines.\n\n\nA l\u2019inscription, chaque joueur commence sur une plan\u00e8te de type Terrien. \nCes plan\u00e8tes permettront de produire les trois types de ressources en \nquantit\u00e9 \u00e9gale. Mais individuellement, chaque ressource pourra s\u2019obtenir \nde mani\u00e8re plus abondante sur un autre type de plan\u00e8te.\n\n\nExemple\n\n\nLa photo ci-dessous est tir\u00e9e de Eve Online: (\nVoir en grand\n)\n\n\n\n\nAm\u00e9liorations\n\n\nSi vous avez d'autres id\u00e9es, que vous d\u00e9sirez poster un avis ou un commentaire, n'h\u00e9siter pas \u00e0 me \ncontacter\n.", 
             "title": "Plan\u00e8tes de types diff\u00e9rents"

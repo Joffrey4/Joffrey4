@@ -8,7 +8,7 @@
   
   
   
-  <title>Productions différées - FusOlar Game</title>
+  <title>Exploration augmentée - FusOlar Game</title>
   
 
   <link rel="shortcut icon" href="../../img/favicon.ico">
@@ -24,9 +24,9 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Productions différées";
-    var mkdocs_page_input_path = "features\delayed-production.md";
-    var mkdocs_page_url = "/features/delayed-production/";
+    var mkdocs_page_name = "Exploration augmentée";
+    var mkdocs_page_input_path = "features\exploration.md";
+    var mkdocs_page_url = "/features/exploration/";
   </script>
   
   <script src="../../js/jquery-2.1.1.min.js"></script>
@@ -68,8 +68,21 @@
 
         
             
-    <li class="toctree-l1 ">
-        <a class="" href="../exploration/">Exploration augmentée</a>
+    <li class="toctree-l1 current">
+        <a class="current" href="./">Exploration augmentée</a>
+        
+            <ul>
+            
+                <li class="toctree-l3"><a href="#exploration-augmentee">Exploration augmentée</a></li>
+                
+                    <li><a class="toctree-l4" href="#explications">Explications</a></li>
+                
+                    <li><a class="toctree-l4" href="#exemple">Exemple</a></li>
+                
+                    <li><a class="toctree-l4" href="#ameliorations">Améliorations</a></li>
+                
+            
+            </ul>
         
     </li>
 
@@ -96,21 +109,8 @@
 
         
             
-    <li class="toctree-l1 current">
-        <a class="current" href="./">Productions différées</a>
-        
-            <ul>
-            
-                <li class="toctree-l3"><a href="#productions-differees">Productions différées</a></li>
-                
-                    <li><a class="toctree-l4" href="#explications">Explications</a></li>
-                
-                    <li><a class="toctree-l4" href="#exemple">Exemple</a></li>
-                
-                    <li><a class="toctree-l4" href="#ameliorations">Améliorations</a></li>
-                
-            
-            </ul>
+    <li class="toctree-l1 ">
+        <a class="" href="../delayed-production/">Productions différées</a>
         
     </li>
 
@@ -186,7 +186,7 @@
         
       
     
-    <li>Productions différées</li>
+    <li>Exploration augmentée</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -196,23 +196,28 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="productions-differees">Productions différées</h1>
-<p>Version 1.0 - Inspiré de Eve Online</p>
+                <h1 id="exploration-augmentee">Exploration augmentée</h1>
+<p>Version 1.0 - Amélioré d'Ogame</p>
 <h2 id="explications">Explications</h2>
-<p>Si la construction d’une usine entière peut prendre 5 cases, ne construire
-que ses mines, ou en tout cas, ne construire que les modules qui récupèrent
-les ressources primaires, prendra seulement 1 ou 2 cases.</p>
-<p>Ainsi, le joueur pourra choisir de ne dédier certaines planètes qu’à la
-récupération de ressources primaires, et d’autres à la transformation en
-matériaux de base (Métal, Cristal, Deutérium). Il pourra optimiser ainsi
-ses productions et il s’évitera d’utiliser inutilement des cases en ne
-construisant pas d’usines au complet sur des ressources épuisables.</p>
-<p>Dans ce cas, le transport des ressources primaires vers une planète qui
-les transformera sera essentiel.</p>
+<p>Le but de l’exploration est de trouver des lieux inédits, cachés, dans le 
+système solaire. Pour cela, le joueur devra envoyer une flotte qui va scanner 
+et trouver ces lieux.</p>
+<p>Une fois que le joueur a sélectionné ses vaisseaux, il visualisera une 
+carte du système solaire. Point par point, il pourra définir une « route » 
+pour sa flotte (voir photo exemple). La distance et le temps minimum requis pour parcourir ce 
+chemin sont calculés. Le joueur peut choisir de le parcourir plus lentement 
+s’il le souhaite. Plus la flotte va lentement, plus elle est susceptible de 
+trouver des lieux intéressants.</p>
+<p>Durant le voyage de la flotte, la carte est mise à jour avec lieux trouvés. 
+Ces lieux pourront être des ceintures d’astéroïdes, des bases stellaires 
+abandonnées (ou non) de PNJs, des trous de ver, et même des planètes colonisables.</p>
+<p>Dès l'instant où ces lieux sont ajoutés sur la carte, le joueur pourra y 
+envoyer des flottes. Ils resteront affichés jusqu'à ce qu'il n'y ait 
+plus rien à y récupérer.</p>
 <h2 id="exemple">Exemple</h2>
-<p>La photo ci-dessous est tirée de Eve Online. Elle montre des usines sur une planète, 
-et leurs productions qui sont directement envoyées dans l'espace.</p>
-<p><img alt="Productions différées" src="../../img/delayed-production.jpg" /></p>
+<p>La photo ci-dessous est un exemple de carte avec le système solaire au centre
+et, en orange, le chemin définit par le joueur pour sa flotte.</p>
+<p><img alt="Exemple d'exploration" src="../../img/exploration-exemple.png" /></p>
 <h2 id="ameliorations">Améliorations</h2>
 <p>Si vous avez d'autres idées, que vous désirez poster un avis ou un commentaire, n'hésiter pas à me <a href="../../#contact">contacter</a>.</p>
               
@@ -222,10 +227,10 @@ et leurs productions qui sont directement envoyées dans l'espace.</p>
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../security-level/" class="btn btn-neutral float-right" title="Niveaux de sécurité">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../blueprint/" class="btn btn-neutral float-right" title="Plans de construction">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../limited-factories/" class="btn btn-neutral" title="Usines et productions limitées"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../.." class="btn btn-neutral" title="Accueil"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -253,10 +258,10 @@ et leurs productions qui sont directement envoyées dans l'espace.</p>
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../limited-factories/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../.." style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../security-level/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../blueprint/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>

@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-06-24</lastmod>
+     <lastmod>2016-06-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,44 +12,56 @@
     
         
     <url>
+     <loc>None/features/exploration/</loc>
+     <lastmod>2016-06-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/features/blueprint/</loc>
+     <lastmod>2016-06-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>None/features/kind-of-planets/</loc>
-     <lastmod>2016-06-24</lastmod>
+     <lastmod>2016-06-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/features/limited-factories/</loc>
-     <lastmod>2016-06-24</lastmod>
+     <lastmod>2016-06-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/features/delayed-production/</loc>
-     <lastmod>2016-06-24</lastmod>
+     <lastmod>2016-06-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/features/security-level/</loc>
-     <lastmod>2016-06-24</lastmod>
+     <lastmod>2016-06-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/features/wormholes-hidden-systems/</loc>
-     <lastmod>2016-06-24</lastmod>
+     <lastmod>2016-06-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/features/fleet-limits/</loc>
-     <lastmod>2016-06-24</lastmod>
+     <lastmod>2016-06-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/features/alliance-tech-planets/</loc>
-     <lastmod>2016-06-24</lastmod>
+     <lastmod>2016-06-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -58,7 +70,7 @@
     
     <url>
      <loc>None/development/</loc>
-     <lastmod>2016-06-24</lastmod>
+     <lastmod>2016-06-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -66,7 +78,7 @@
     
     <url>
      <loc>None/whoiam/</loc>
-     <lastmod>2016-06-24</lastmod>
+     <lastmod>2016-06-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
